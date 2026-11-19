@@ -1,0 +1,21 @@
+﻿  FileName.cpp
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(1,1): error C2018: неизвестный знак "0x60"
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(1,2): error C2018: неизвестный знак "0x60"
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(1,3): error C2018: неизвестный знак "0x60"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+  (компиляция исходного файла "FileName.cpp")
+  
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(1,4): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(16,1): error C2018: неизвестный знак "0x60"
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(16,2): error C2018: неизвестный знак "0x60"
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(16,3): error C2018: неизвестный знак "0x60"
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(20,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(16,4): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(16,4): error C2086: int c: переопределение
+      H:\УП\Rabota-2\Project2\Project2\FileName.cpp(1,4):
+       см. объявление "c"
+  
+H:\УП\Rabota-2\Project2\Project2\FileName.cpp(20,5): error C2084: функция "int main(void)" уже имеет текст реализации
+      H:\УП\Rabota-2\Project2\Project2\FileName.cpp(5,5):
+      см. предыдущее определение "main"
+  
