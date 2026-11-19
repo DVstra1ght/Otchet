@@ -1,0 +1,16 @@
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.exe
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.deps.json
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.runtimeconfig.json
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.dll
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\WinFormsApp1.pdb
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.Form1.resources
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.dll
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\refint\WinFormsApp1.dll
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.pdb
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\УП\4 работа\WinFormsApp1\WinFormsApp1\obj\Release\net8.0-windows\ref\WinFormsApp1.dll
